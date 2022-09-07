@@ -1,4 +1,4 @@
-# CSCI-5709 Adv Web-Backend
+# ShareIt-Backend
 
 
 
