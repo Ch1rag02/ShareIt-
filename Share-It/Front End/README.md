@@ -1,11 +1,7 @@
-# Project Proposal
-### `We have added the LIVE HEROKU SERVER to the CI/CD pipeline. This will automatically show the latest pushed changed from the main branch to the below given link.`
-
+# Share-It
+### `I have added the LIVE HEROKU SERVER to the CI/CD pipeline. This will automatically show the latest pushed changed from the main branch to the below given link.`
 
 Heroku Link: https://shareit-csci5709.herokuapp.com/
-
-GitLab Link: https://git.cs.dal.ca/ampatel/csci5709-advweb 
-
 
 ## Getting Started
 
